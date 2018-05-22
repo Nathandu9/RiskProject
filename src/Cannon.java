@@ -1,2 +1,4 @@
-public class Cannon {
+public class Cannon extends Unit{
+
+
 }

@@ -1,2 +1,2 @@
-public class Rider {
+public class Rider  {
 }
