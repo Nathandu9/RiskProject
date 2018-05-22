@@ -1,2 +1,4 @@
-public class Soldier {
+public class Soldier extends Unit {
+
+
 }

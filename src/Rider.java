@@ -1,2 +1,4 @@
-public class Rider  {
+public class Rider  extends Unit{
+
+
 }

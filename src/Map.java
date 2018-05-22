@@ -1,3 +1,5 @@
+import javax.swing.*;
+import javax.swing.JFrame;
 import java.awt.Color;
 import java.awt.event.KeyEvent;
 import edu.princeton.cs.introcs.StdDraw;
@@ -30,8 +32,8 @@ public class Map {
         StdDraw.circle(150,470,13); //Alberta
         StdDraw.circle(220,460,13); //Ontario
         StdDraw.circle(300,462,13); //Québec
-        StdDraw.circle(150,400,13); //Etat de l'Ouest
-        StdDraw.circle(227,382,13); //Etat de l'Est
+        StdDraw.circle(150,400,13); //Etats-Unis de l'Ouest
+        StdDraw.circle(227,382,13); //Etats-Unis de l'Est
         StdDraw.circle(165,337,13); //Amerique Centrale
         StdDraw.circle(350,550,13); //Groenland
 
@@ -94,7 +96,6 @@ public class Map {
         StdDraw.circle(970,190,13); //Nouvelle-Guinée
         StdDraw.circle(910,70,13); //Australie de l'Ouest
         StdDraw.circle(1010,70,13); //Australie de l'Est
-
         }
 
     }
