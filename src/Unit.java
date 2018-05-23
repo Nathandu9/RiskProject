@@ -7,11 +7,6 @@ abstract class Unit {
     int idCountry;
     int idOwner; // ???
 
-<<<<<<< HEAD
-    int cost;
-    int power;
-    int MvmentNumber;
-
 =======
     public Unit(int cost, int power, int attackPriority, int defensePriority, int nbMovements){
         this.cost = cost;
